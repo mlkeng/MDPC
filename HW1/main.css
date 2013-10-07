@@ -1,0 +1,22 @@
+<style>
+div,p{
+    margin:0;
+    padding:0;
+}
+html{
+    background:#ccc;
+}
+.outer{
+    width:400px;
+    height:600px;
+    margin::0 auto;
+    background:#9CF;
+}
+.box{
+}
+p{
+    background:#EEA458;
+    height:100%;
+    padding:25px;
+}
+</style>
